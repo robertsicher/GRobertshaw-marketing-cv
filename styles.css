@@ -196,6 +196,4 @@ footer { text-align: center; padding: 36px 20px; color: var(--muted); }
 
 
 /* Extra breathing room before the final Let's Talk section */
-.education-spaced {
-  margin-bottom: 42px;
-}
+.education + .cta { margin-top: 42px; }
